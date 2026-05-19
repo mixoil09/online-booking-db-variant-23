@@ -1,0 +1,15 @@
+# Конфигурация с паролями
+config.php
+
+# Логи
+*.log
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Временные файлы
+*.tmp
+*.swp
